@@ -1,91 +1,99 @@
-# QRious-CentralAsia – A Regional Cybersecurity Awareness Project 🛡️
+QRious-CentralAsia – A Regional Cybersecurity Awareness Project 🛡️
+QRious-CentralAsia is a cybersecurity awareness project based in Central Asia that explores how human curiosity — especially among youth — leads people to scan unknown QR codes. In a region with growing internet access but low cybersecurity awareness, this experiment simulates real-world phishing-style traps to study behavior and promote safer digital habits. It targets diverse demographics and public venues to inform better security practices.
 
-**QRious-CentralAsia** is a cybersecurity awareness project based in Central Asia that explores how human curiosity — especially among youth — leads people to scan unknown QR codes. In a region with growing internet access but low cybersecurity awareness, this experiment simulates real-world phishing-style traps to study behavior and raise digital safety awareness.It targets diverse demographics and public venues to inform safer digital habits.
+🌍 Why Central Asia?
+Countries like Uzbekistan, Kazakhstan, and Kyrgyzstan are undergoing rapid digital transformation — from e-government portals to mobile banking — but many users still scan QR codes without fully understanding the risks.
 
----
+⚠️ QR codes are becoming a major cybersecurity threat, especially in regions with limited digital literacy. Many users in Central Asia are unaware that scanning a malicious QR code can lead to phishing sites, malware downloads, or data theft — all without them realizing what's happening.
+This project brings attention to that danger through education and ethical experimentation.
 
-## 🌍 Why Central Asia?
+Key Challenges:
+📉 Most users don’t verify what’s behind QR codes
 
-Countries like Uzbekistan, Kazakhstan, and Kyrgyzstan are experiencing rapid digitalization — from e-government to mobile banking — but many users still scan QR codes without caution.
+🧠 Younger people are often more curious, but less cautious
 
-- QR phishing (“quishing”) is a rising threat
-- Most users **don’t verify** what’s behind QR codes
-- Young people are often more curious but less cautious
+🚨 QR phishing (“quishing”) is a rising global threat
 
-This project addresses a **real local cybersecurity risk**.
+This project directly addresses a local and growing cybersecurity risk.
 
----
+🎯 Project Goals
+🧠 Raise awareness about QR-based phishing attacks
 
-## 🎯 Project Goals
+📈 Study behavioral differences by age group (youth vs older adults)
 
-- 🧠 Raise awareness about QR-based phishing attacks  
-- 📈 Study behavioral differences by age group (youth vs older adults)  
-- 📍 Focus on Central Asian settings (campuses, cafes, markets)  
-- 🧪 Collect and visualize real-world scanning behavior
+📍 Focus on Central Asian environments (campuses, cafes, markets)
 
----
+📊 Collect and visualize real-world scanning behavior
 
-## 🧪 How the Experiment Works
+🧪 How the Experiment Works
+Generate a QR code that links to an educational landing page
 
-1. Generate a QR code linking to an **educational landing page**
-2. Label it with a curiosity trigger:  
-   > ⚠️ **Do NOT Scan This QR Code**  
-3. Post in real Central Asian settings:  
-   - School halls  
-   - Internet cafés  
-   - Telegram channels  
-4. Track:
-   - Number of scans  
-   - Estimated age group (via poll or form)
-   - Location type (urban, campus, etc.)
+Label it with a curiosity trigger:
 
----
+⚠️ Do NOT Scan This QR Code
 
-## 📱 Safety Apps Recommended in Central Asia
+Place QR codes in real settings across Central Asia:
 
-Due to app restrictions in the region, here are scanners that work reliably:
+School hallways
 
-- **Trend Micro QR Scanner** *(Android / iOS)*  
-  → Shows link + warns about malicious content
+Internet cafés
 
-- **QR & Barcode Scanner by Gamma Play** *(Android)*  
-  → Very popular and lightweight
+Telegram community boards
 
-- **ZXing Decoder** *(Web)*  
-  → Upload QR code to preview safely (no app needed)  
-  → [ZXing Web Tool](https://zxing.org/w/decode.jspx)
+Track anonymous scan data:
 
----
+Total number of scans
 
-## ⚠️ Disclaimer
+Estimated age group (via optional poll or form)
 
-This project is **strictly educational** and ethical:  
-- No real malware or phishing involved  
-- No personal data is collected  
-- Users scan QR codes voluntarily  
-- All experiments follow local public display rules
+Environment type (urban, campus, market, etc.)
 
----
+📱 Recommended Safe QR Scanners in Central Asia
+Due to regional app restrictions, these are reliable and accessible tools:
 
-## 📊 Results & Impact (To Be Updated)
+Trend Micro QR Scanner (Android / iOS)
+→ Previews link and warns about malicious URLs
 
-This section will contain:
-- Total scans by age group
-- Most common scan locations
-- Quotes or reactions (anonymous)
+QR & Barcode Scanner by Gamma Play (Android)
+→ Lightweight and widely used
 
----
+ZXing Decoder (Web tool)
+→ Upload any QR image to preview safely
+→ ZXing Web Tool
 
-## 📜 License
+⚠️ Disclaimer
+This is an educational cybersecurity awareness project. It does not involve:
 
-Licensed under the **MIT License**. You are free to use or adapt this project for awareness campaigns, educational workshops, or regional research — but must credit the original author.
+Real phishing pages or malware
 
----
+Collection of personal or identifying information
 
-## 🙋 Author
+Forced interaction — QR scans are voluntary
 
-**Laziz Tolmasov**  
-Cybersecurity Learner & Experimenter  
-GitHub: [https://github.com/LzJapan](https://github.com/LzJapan)  
+All activities comply with local public display rules and ethical research standards.
+
+📊 Results & Impact (To Be Updated)
+Planned updates will include:
+
+Scan data by age group and location
+
+Anonymous user reactions or quotes
+
+Visual charts of scan behavior patterns
+
+📜 License
+Licensed under the MIT License. You are free to reuse or adapt this project for:
+
+Awareness campaigns
+
+Educational workshops
+
+Regional cybersecurity research
+
+Please credit the original author.
+🙋 Author
+Laziz Tolmasov
+Cybersecurity Learner & Experimenter
+GitHub: https://github.com/LzJapan
 Location: Uzbekistan 🇺🇿
 
