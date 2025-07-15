@@ -1,4 +1,5 @@
-QRious-CentralAsia – A Regional Cybersecurity Awareness Project 🛡️
+"QRious"-CentralAsia – A Regional Cybersecurity Awareness Project 🛡️
+
 QRious-CentralAsia is a cybersecurity awareness project based in Central Asia that explores how human curiosity — especially among youth — leads people to scan unknown QR codes. In a region with growing internet access but low cybersecurity awareness, this experiment simulates real-world phishing-style traps to study behavior and promote safer digital habits. It targets diverse demographics and public venues to inform better security practices.
 
 🌍 Why Central Asia?
@@ -91,9 +92,13 @@ Educational workshops
 Regional cybersecurity research
 
 Please credit the original author.
-🙋 Author
+
+🙋 Author:
 Laziz Tolmasov
+
 Cybersecurity Learner & Experimenter
+
 GitHub: https://github.com/LzJapan
+
 Location: Uzbekistan 🇺🇿
 
